@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A3F9BE-EC1D-41F6-A0B7-32C5D83FADA3}|Business\\Business.csproj|c:\\users\\90544\\documents\\github\\e-commerceapi\\e-commerceapi\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93A3F9BE-EC1D-41F6-A0B7-32C5D83FADA3}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304084BD-3ADD-4701-9900-D44FF3F1A6F0}|DataAccess\\DataAccess.csproj|c:\\users\\90544\\documents\\github\\e-commerceapi\\e-commerceapi\\dataaccess\\concrete\\dapper\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304084BD-3ADD-4701-9900-D44FF3F1A6F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\dapper\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C40A6-49F7-4B00-8131-8775589C4CBE}|WebAPI\\WebAPI.csproj|c:\\users\\90544\\documents\\github\\e-commerceapi\\e-commerceapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA6C40A6-49F7-4B00-8131-8775589C4CBE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Business",
+              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T11:31:21.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T08:45:33.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\DataAccess\\Concrete\\Dapper\\MyContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\Dapper\\MyContext.cs",
+              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\DataAccess\\Concrete\\Dapper\\MyContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\Dapper\\MyContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwCMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:43:38.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
