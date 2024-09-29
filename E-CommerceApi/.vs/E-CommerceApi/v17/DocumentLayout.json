@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{304084BD-3ADD-4701-9900-D44FF3F1A6F0}|DataAccess\\DataAccess.csproj|c:\\users\\90544\\documents\\github\\e-commerceapi\\e-commerceapi\\dataaccess\\abstract\\idappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304084BD-3ADD-4701-9900-D44FF3F1A6F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\idappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304084BD-3ADD-4701-9900-D44FF3F1A6F0}|DataAccess\\DataAccess.csproj|c:\\users\\90544\\documents\\github\\e-commerceapi\\e-commerceapi\\dataaccess\\concrete\\dapper\\dpcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304084BD-3ADD-4701-9900-D44FF3F1A6F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\dapper\\dpcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304084BD-3ADD-4701-9900-D44FF3F1A6F0}|DataAccess\\DataAccess.csproj|c:\\users\\90544\\documents\\github\\e-commerceapi\\e-commerceapi\\dataaccess\\concrete\\dapper\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304084BD-3ADD-4701-9900-D44FF3F1A6F0}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\dapper\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A374305-9442-4126-A538-3B8DDB82DA06}|Core\\Core.csproj|c:\\users\\90544\\documents\\github\\e-commerceapi\\e-commerceapi\\core\\dataaccess\\dapper\\dpgenericrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A374305-9442-4126-A538-3B8DDB82DA06}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\dapper\\dpgenericrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A374305-9442-4126-A538-3B8DDB82DA06}|Core\\Core.csproj|c:\\users\\90544\\documents\\github\\e-commerceapi\\e-commerceapi\\core\\dataaccess\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A374305-9442-4126-A538-3B8DDB82DA06}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29AEFF-27A4-45F1-93E9-F43820F16009}|Entities\\Entities.csproj|c:\\users\\90544\\documents\\github\\e-commerceapi\\e-commerceapi\\entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29AEFF-27A4-45F1-93E9-F43820F16009}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\DataAccess\\Abstract\\IDapperContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IDapperContext.cs",
+              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\DataAccess\\Abstract\\IDapperContext.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IDapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:20:45.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\Core\\DataAccess\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\Core\\DataAccess\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\DataAccess\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:12:03.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DpGenericRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\Core\\DataAccess\\Dapper\\DpGenericRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\Dapper\\DpGenericRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\Core\\DataAccess\\Dapper\\DpGenericRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAccess\\Dapper\\DpGenericRepositoryBase.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:11:15.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DpCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\DataAccess\\Concrete\\Dapper\\DpCategoryDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\Dapper\\DpCategoryDal.cs",
+              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\DataAccess\\Concrete\\Dapper\\DpCategoryDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\Dapper\\DpCategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:10:01.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\Entities\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\Entities\\Concrete\\Category.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:09:31.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\DataAccess\\Concrete\\Dapper\\DapperContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\Dapper\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\E-CommerceAPI\\E-CommerceApi\\DataAccess\\Concrete\\Dapper\\DapperContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\Dapper\\DapperContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:08:59.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

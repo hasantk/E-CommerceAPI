@@ -1,0 +1,16 @@
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\bin\Debug\net8.0\Core.dll
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\Core.dll
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\bin\Debug\net8.0\DataAccess.dll
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\90544\Documents\GitHub\E-CommerceAPI\E-CommerceApi\Core\obj\Debug\net8.0\Core.csproj.Up2Date
